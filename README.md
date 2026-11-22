@@ -11,6 +11,7 @@ Outside work: music technology (MIDI controllers, DMX lighting, live audio) and 
 Write-ups of things I've built, fixed or figured out.
 
 <!-- BLOG-POST-LIST:START -->
+- [XTA DP448: LCD Module Replacement](https://jamesfry.com/notes/xta-dp448-lcd-replacement/)
 <!-- BLOG-POST-LIST:END -->
 
 More at [jamesfry.com/notes](https://jamesfry.com/notes/).
